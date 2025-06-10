@@ -1,0 +1,8 @@
+# Global code owner for all files in this repository
+* @saroj-priyadarshi
+
+# Specific ownership for shell scripts
+*.sh @saroj-priyadarshi
+
+# Scripts directory
+Scripts/ @saroj-priyadarshi
